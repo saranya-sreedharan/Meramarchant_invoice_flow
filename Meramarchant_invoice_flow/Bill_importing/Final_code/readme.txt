@@ -1,0 +1,1 @@
+This file contains the apis where testing both the URL and database connection. Only "routes.py" file have the difference, so that file is added here.

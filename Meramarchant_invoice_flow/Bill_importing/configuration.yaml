@@ -1,0 +1,10 @@
+email_user: operatormeramerchant@gmail.com
+email_pass: ruzx fwid srtc zjip
+imap_url: imap.gmail.com
+input_directory: /home/ubuntu/data/INPUT
+output_directory: /home/ubuntu/data/JSON_FILES
+db_host: mnserviceproviders.com  
+db_database: local_db_developer_mm_invoiceflow
+db_user: usr_local_invoiceflow
+db_password: b5^^9o-gS6*n
+db_port: 3307  
